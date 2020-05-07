@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/text_adroid_developer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/android_developer"
+            android:textSize="32sp"
+            android:textColor="@color/colorTextSplashScreen" />
+
+        <ImageView
+            android:id="@+id/logo_splash_screen"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:src="@drawable/img_splash"/>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/romulo"
+            android:textSize="32sp"
+            android:textColor="@color/colorTextSplashScreen"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:layout_marginTop="130dp">
+
+        <ImageView
+            android:src="@drawable/github_logo"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:text="@string/git"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/git_email"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+

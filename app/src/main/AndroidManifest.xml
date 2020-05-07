@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mycurriculumapp">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/app_icon_cv"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/app_icon_cv"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".SplashScreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".SensorAcelerometer"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".DadosPessoais"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Escolas"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Experiencia"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".FraseFavoritas"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Habilidades"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".GerarFrasesMotivadoras"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".GameRockPaperScisors"
+            android:screenOrientation="portrait"/>
+
+    </application>
+
+</manifest>

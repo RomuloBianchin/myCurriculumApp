@@ -1,0 +1,100 @@
+<resources>
+
+<string name="app_name">My Curriculum App</string>
+
+<string name="email">Email:</string>
+<string name="email_endereco">romulobianchin986@gmail.com</string>
+
+<string name="developer">Android Developer Jr</string>
+<string name="android_developer">Android Developer Jr</string>
+<string name="n_telemovel">+351 925 339 918</string>
+<string name="romulo">Rômulo R M Bianchin</string>
+
+
+<string name="ol_tudo_bem">Hi, how are you?</string>
+<string name="por_favor_insira_o_seu_nome_abaixo"> This app was created with the intention to do a brief apresentation about myself</string>
+<string name="digite_aqui_o_seu_nome">Welcome!!</string>
+<string name="next">To continue, Shake the phone… or click in the button below.</string>
+<string name="proximo">Next</string>
+
+
+<string name="assunto">Subject:</string>
+<string name="uma_breve_descri_o_sobre_mim">Description:</string>
+<string name="descricao">Description:</string>
+    <string name="nome">Name:</string>
+    <string name="contactos">Contacts:</string>
+    <string name="morada">Address:</string>
+    <string name="rua">Rua Central de Vilar, n 371, Paredes (Porto) </string>
+    <string name="git">GitHub</string>
+    <string name="git_email">github.com/RomuloBianchin</string>
+    <string name="nascimento">Birth:</string>
+    <string name="_01_10_1986">01/10/1986</string>
+    <string name="txt_telomovel">Phone: </string>
+    <string name="feeds">Feeds</string>
+
+    <string name="technical_course">Android Developer (Java) - Technical Course since March,2019 to March,2020</string>
+
+    <string name="masterd">MasterD</string>
+    <string name="masterd_curso">Technical School - Portugal</string>
+    <string name="master_d_tempo">Started in March 2019 and concluded in March 2020</string>
+    <string name="desc_masted_D">In this course I´ve learned how to become an Android Developer Jr, creating the necessary base to
+    give the first steps on this path.The language that I am using to recreate all apps and learn the Android creation concept is Java
+    with the IDE Android Studio. I know it´s far away of really being an Android Developer, but it really openned my mind, taught me a
+    lot of concepts of Android and the most important, I really enjoy doing all the activity and I had a great support team that were always
+    giving me the energy and teaching me as much as possible.</string>
+
+    <string name="cotuca">Cotuca</string>
+    <string name="cotuca_curso">Technical School - Brazil</string>
+    <string name="cotuca_d_tempo">Started in February 2015 and concluded in February 2016</string>
+    <string name="desc_cotuca">Web Developer - Technical Course Cotuca - Escola Técnica Unicamp
+    In this course I´ve learned the main principles how developing a web page, passing through the
+    tecnologies listed below:HTML5 , CSS and JavaScript.</string>
+
+    <string name="anhanguera">Anhanguera Educacional</string>
+    <string name="anhanguera_curso">Anhanguera Educational University - Brazil</string>
+    <string name="anhang_tempo">Started in February 2008 and concluded in February 2012</string>
+    <string name="desc_anhnaguera">Gratuated in Finance and Administration Industries.
+    University of Anhanguera Educacional Unity 3, Campinas (Brasil)
+    During 4 years I´ve studied about the biggest administrators in the world, as Henry Ford, Maslow and
+    a lot more, and their tecniques to reach better results in the organization.
+    Fincance situations that a company can have, contability and strategies that can improve the companie´s results.</string>
+    <string name="voltar">Back</string>
+    <string name="back">Back</string>
+
+    <string name="exp_europass_1">1 - My entire experience as a worker is with Logistic, Administration and Export and Import Process, but
+    after some years on this path, I discovered a passion of programming and since this day I started
+    looking for things that I could learn regarding technology </string>
+
+    <string name="exp_europass_2">2 - I´ve started doing a course of Algotithm and JavaScript with (HTML and CSS), at Cotuca Brazil in 2015 until 2016,
+    during this course I could absorve some concepts regarding webDevelopment, it helped me a lot, it made the things easier,
+    I can say it because I already knew the basic concepts as variables and your kinds, the loops cicles etc, then it made the path a bit shorter when I began
+    the Android Development Course at MasterD Portugal in 2019.</string>
+
+    <string name="exp_europass_3">3 - I had no idea how was possbile to program for Android, but as soon I began the course, I really loved, I know
+    that I am far away of becoming a good Android Developer, but I´ve no doubt I´ll reach it, an example is comparing myself 1 year ago and now,
+    so I learned that I don´t have to compare with experts, what I need is learn with them and then compare my evolution, with the guidance that MasterD gave me
+    and the curiousity I have, I believe I can go beyond giving one step each day.</string>
+    <string name="personal_skills">Personal Skills</string>
+    <string name="primary_language">Primary Language:</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="languages">Languages</string>
+    <string name="english">English</string>
+    <string name="level">Level</string>
+    <string name="com_skills">I consider myself an easy person to comunicate and I am always looking for learning new things always searching for my development and colaboration.</string>
+    <string name="java_des">I am far away of being an expert, but I can say that between these 3 languages I am really interested to learn, currently ( JAVA ) is the one I fell more comfortable as I´ve used this language during this last year in my course at MasterD</string>
+    <string name="kotlin_desc">I know that to become a good Android Developer I need to learn Kotlin, at this momment I am really new with this language and just giving the first steps.</string>
+    <string name="desc_flutter">I´ve recenblty tried some tutorials regarding this language to see how it works and it is really interesting, until now I´ve only created one simple App that I´ve posted on my gitHub and seems to be really promising.</string>
+
+
+    <string name="aperte_o_botao">"Press the button below to generate 1 of the 7 possible phrases. "</string>
+    <string name="press_to_generate">"Press to Generate. "</string>
+    <string name="escolha_aplicacao">The Square below will show the app choice.</string>
+    <string name="escolha_umas_das_opcoes">Choose one of these 3 options below and try beat the App</string>
+
+
+
+    <string name="img_email_address">image email address</string>
+    <string name="new_objectives">Personal Objectives</string>
+
+
+</resources>

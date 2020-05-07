@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="6dp">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/masterd"
+                android:textStyle="bold"
+                android:textSize="26sp"
+                android:textAlignment="center"
+                android:textColor="#000"/>
+
+            <ImageView
+                android:src="@drawable/master_d"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/masterd_curso"
+                android:layout_marginTop="6dp"
+                android:textSize="16sp"
+                android:textStyle="italic|bold"
+                android:textAlignment="center"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/master_d_tempo"
+                android:textSize="16sp"
+                android:textStyle="italic|bold"
+                android:textAlignment="center"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="@string/desc_masted_D"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cotuca"
+                android:textStyle="bold"
+                android:textSize="26sp"
+                android:textAlignment="center"
+                android:textColor="#000"
+                android:layout_marginTop="16dp"/>
+
+            <ImageView
+                android:src="@drawable/cotuca"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cotuca_curso"
+                android:layout_marginTop="6dp"
+                android:textSize="16sp"
+                android:textStyle="italic|bold"
+                android:textAlignment="center"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cotuca_d_tempo"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="italic|bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/desc_cotuca"
+                android:layout_marginTop="6dp"
+                android:textSize="16sp"/>
+
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/anhanguera"
+                android:textStyle="bold"
+                android:textSize="26sp"
+                android:textAlignment="center"
+                android:textColor="#000"
+                android:layout_marginTop="16dp"/>
+
+            <ImageView
+                android:src="@drawable/anhanguera"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/anhanguera_curso"
+                android:layout_marginTop="6dp"
+                android:textSize="16sp"
+                android:textStyle="italic|bold"
+                android:textAlignment="center"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/anhang_tempo"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="italic|bold"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/desc_anhnaguera"
+                android:layout_marginTop="6dp"
+                android:textSize="16sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="40dp">
+
+                <Button
+                    android:id="@+id/arrow_back"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/back_arrow"
+                    android:text="@string/voltar"
+                    android:textAlignment="center"
+                    android:background="@drawable/back_arrow"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
